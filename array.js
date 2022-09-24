@@ -262,3 +262,5 @@ console.log(arr.length);
 
 arr.length = 205;
 console.log(arr.length);
+
+//legko
